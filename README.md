@@ -1,24 +1,49 @@
-# README
+# Hello Rails React -Frontend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project have been created to test a project with 2 different repositories
 
-Things you may want to cover:
 
-* Ruby version
+## Front of the project
 
-* System dependencies
+- If you want to visit the front repository of the project, you can click [here](https://github.com/eroiyo/hello-rails-react-front-end/)
+## Languages and tools
 
-* Configuration
+- Ruby
+- Ruby on Rails
+- Postgress
 
-* Database creation
+## Available Scripts
 
-* Database initialization
+In the project directory, you can run:
 
-* How to run the test suite
+### `rails s`
 
-* Services (job queues, cache servers, search engines, etc.)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-* Deployment instructions
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-* ...
+### `bundle install`
+
+Install all the modules and gems required
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Authors
+
+👤 **Arturo Ortega**
+
+- Github: [@eroiyo](https://github.com/eroiro)
+- Linkedin: [Arturo Ortega](https://www.linkedin.com/in/carlos-arturo-ortega-guanipa-39a1a5204/)
+
+## Acknowledgments
+
+Microverse
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
